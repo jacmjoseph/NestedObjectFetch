@@ -1,0 +1,2 @@
+This project is created to retrieve a key value from a nested object. The object should be nested like {'a':{'b':{'c':'d'}}} and the key in the format a/b/c.
+The proram works by creating a nested object and then querying the nested structure with the tokenized keys.
